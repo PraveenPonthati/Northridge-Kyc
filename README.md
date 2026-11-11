@@ -6,15 +6,20 @@ This package contains no accounts, applications, or uploaded documents. The `dat
 
 ## Project preview
 
+The screenshots are arranged to begin with the staff sign-in screen, then continue through the remaining project screens in sequence.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24810c46-812d-443f-a887-2c3eb84401c2" width="920" alt="Northbridge borrower portal overview" />
+  <img src="https://github.com/user-attachments/assets/24810c46-812d-443f-a887-2c3eb84401c2" width="720" alt="Staff sign-in" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/963196c8-cff8-43b2-b588-a2a4a54e6476" width="260" alt="Borrower portal upload flow" />
-  <img src="https://github.com/user-attachments/assets/9f9e0080-30c1-4b2a-9542-46bc7d498219" width="260" alt="Document verification page" />
-  <img src="https://github.com/user-attachments/assets/20fc2a24-69d0-4ce6-a003-97ff17bdc736" width="260" alt="Staff review queue" />
-  <img src="https://github.com/user-attachments/assets/fc6c61d7-bc3c-496b-950f-a1c27cbf694c" width="260" alt="Application review and decision view" />
+  <img src="https://github.com/user-attachments/assets/124ab410-49e1-4483-8221-ec49f9f4e6f9" width="260" alt="Project screen 1" />
+  <img src="https://github.com/user-attachments/assets/e814b3f3-e7da-44b2-b9c2-3f3622518f71" width="260" alt="Project screen 2" />
+  <img src="https://github.com/user-attachments/assets/497cadfb-17d1-4253-9821-8b68a79e8af5" width="260" alt="Project screen 3" />
+  <img src="https://github.com/user-attachments/assets/fc6c61d7-bc3c-496b-950f-a1c27cbf694c" width="260" alt="Project screen 4" />
+  <img src="https://github.com/user-attachments/assets/20fc2a24-69d0-4ce6-a003-97ff17bdc736" width="260" alt="Project screen 5" />
+  <img src="https://github.com/user-attachments/assets/9f9e0080-30c1-4b2a-9542-46bc7d498219" width="260" alt="Project screen 6" />
+  <img src="https://github.com/user-attachments/assets/963196c8-cff8-43b2-b588-a2a4a54e6476" width="260" alt="Project screen 7" />
 </div>
 
 ## Quick start
@@ -252,7 +257,7 @@ The same frontend served by FastAPI automatically detects `/v1/health` and sends
 | `NB_LLM_TIMEOUT_S` | `30` | |
 | `NB_SALARY_CONFIDENCE_MIN` / `NB_NAME_CONFIDENCE_MIN` | `0.90` / `0.85` | Review thresholds. |
 
-**Local model with Ollama (nothing leaves the machine).** Install [Ollama](https://ollama.com), pull a model, and point the app at it with a `.env` file in the project folder (settings there are loaded automatically). 
+**Local model with Ollama (nothing leaves the machine).** Install [Ollama](https://ollama.com), pull a model, and point the app at it with a `.env` file in the project folder (settings there are loaded automatically).
 
 ```bash
 ollama pull deepseek-r1:1.5b
