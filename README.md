@@ -1,3 +1,11 @@
+<img width="1066" height="992" alt="Screenshot 2026-11-11 201434" src="https://github.com/user-attachments/assets/24810c46-812d-443f-a887-2c3eb84401c2" />
+<img width="1920" height="1080" alt="Screenshot (3356)" src="https://github.com/user-attachments/assets/963196c8-cff8-43b2-b588-a2a4a54e6476" />
+<img width="1920" height="1080" alt="Screenshot (3355)" src="https://github.com/user-attachments/assets/9f9e0080-30c1-4b2a-9542-46bc7d498219" />
+<img width="1920" height="1080" alt="Screenshot (3354)" src="https://github.com/user-attachments/assets/20fc2a24-69d0-4ce6-a003-97ff17bdc736" />
+<img width="1920" height="1080" alt="Screenshot (3353)" src="https://github.com/user-attachments/assets/fc6c61d7-bc3c-496b-950f-a1c27cbf694c" />
+<img width="1920" height="1080" alt="Screenshot (3352)" src="https://github.com/user-attachments/assets/497cadfb-17d1-4253-9821-8b68a79e8af5" />
+<img width="1920" height="1080" alt="Screenshot (3351)" src="https://github.com/user-attachments/assets/e814b3f3-e7da-44b2-b9c2-3f3622518f71" />
+<img width="1920" height="1080" alt="Screenshot (3350)" src="https://github.com/user-attachments/assets/124ab410-49e1-4483-8221-ec49f9f4e6f9" />
 # Northbridge Finance — KYC document verification workspace
 
 Team Beta · Runnable local project: a borrower portal, a staff review dashboard and a document-checking pipeline that runs entirely on your machine.
