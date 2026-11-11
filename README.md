@@ -12,7 +12,7 @@ Python **3.12** is required. Run everything from the extracted project folder.
 
 ```powershell
 winget install Python.Python.3.12            # skip if `python --version` already says 3.12
-winget install UB-Mannheim.TesseractOCR      # optional: fallback OCR engine and the Compare tab
+winget install UB-Mannheim.TesseractOCR      # optional: fallback OCR engine and  Compare tab
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r backend/requirements.txt
